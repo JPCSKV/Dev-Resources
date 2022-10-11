@@ -1,5 +1,5 @@
 # Dev-Resources
-Useful resources for developers: bootcamps, books, challenges, and others tools
+Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ## Useful Resources:
 
