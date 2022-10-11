@@ -85,7 +85,7 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 | feathericons |  https://feathericons.com/
 | tablericons |  https://tablericons.com/
 
-### Descargar Libros gratis
+### Free Books
 
 | Nombre | Enlace |
 | :---: | :--- |
@@ -94,7 +94,7 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 | EbookFoundation | https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md#javascript
 | Zlibrary | https://ar1lib.org/
 
-### Colores
+### Colors
 
 | Nombre | Enlace |
 | :---: | :--- |
@@ -106,7 +106,7 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 | gradientbuttons | https://gradientbuttons.colorion.co/
 | coolors | https://coolors.co/
 
-### Templates Gratis
+### Free Templates
 
 | Nombre | Enlace |
 | :---: | :--- |
@@ -125,7 +125,7 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 | html5boilerplate | https://html5boilerplate.com/
 | elements.envato | https://elements.envato.com/es-419/web-templates
 
-### APIS Publicas 
+### Publics APIS
 | Nombre | Enlace |
 | :---: | :--- |
 | public-apis | https://github.com/public-apis/public-apis
@@ -207,7 +207,7 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 | purepng | https://purepng.com/
 | favpng | https://favpng.com/
 
-### Crear código QR
+### QR Code
 
 | Nombre | Enlace |
 | :---: | :--- |
@@ -215,10 +215,11 @@ Useful resources for developers: bootcamps, books, challenges, and others tools
 
 ---
 
+<h4 align="center"><strong>FOLLOW ME</strong></h4>
 <p align="center">
  <a href="https://github.com/JPCSKV" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/juan-pablo-contreras-serkovic/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/jpcskv" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
 
-<h4 align="center"><strong>¡NO PARES DE APRENDER!</strong></h4>
+
 
 
