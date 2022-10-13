@@ -6,21 +6,21 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 - TABLE OF CONTENTS
     - [Free Bootcamps](#Learn-Web-Development)
     - [Dev Challenges](#Dev-Challanges)
-    - [Descargar Imágenes](#descargar-imágenes)
-    - [Descargar Iconos gratis](#descargar-iconos-gratis)
-    - [Descargar Libros gratis](#descargar-libros-gratis)
-    - [Colores](#colores)
-    - [Templates Gratis](#templates-gratis)
-    - [APIS Publicas](#apis-publicas)
-    - [Recursos para desarrolladores](#recursos-para-desarrolladores)
-    - [Editores de codigo online](#editores-de-codigo-online)
+    - [Free Images](#Free-images)
+    - [Free Icons](#Free-Icons)
+    - [Free Books](#Free-Books)
+    - [Colors](#colors)
+    - [free Templates](#Free-templates)
+    - [Publics APIS](#Publics-APIS)
+    - [Developer Resources](#Developer-Resources)
+    - [Online Code Editors](#Online-Code-Editors)
     - [Blogs](#blogs)
-    - [Preguntas](#preguntas)
-    - [Velocidad de carga de sitio web](#velocidad-de-carga-de-sitio-web)
-    - [Descargar fuentes gratis](#descargar-fuentes-gratis)
-    - [Herramientas para comprimir imágenes](#herramientas-para-comprimir-imágenes)
-    - [PNG con fondo transparente](#png-con-fondo-transparente)
-    - [Crear código QR](#crear-código-qr)
+    - [FAQ](#FAQ)
+    - [Websites speed test](#Websites-speed-test)
+    - [Free Fonts](#Free-Fonts)
+    - [Online Images Compresor](#Online-Images-Сompressor)
+    - [PNG With Transparent Background](#PNG-With-Transparent-Background)
+    - [QR Code Genarator](#QR-Code-Genarator)
 
 ### Learn Web Development
 
@@ -52,7 +52,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | leetcode | https://leetcode.com/
 | css-tricks | https://css-tricks.com/
 
-### Descargar Imágenes
+### Free Images
 
 | WEB | URL |
 | :---: | :--- |
@@ -90,7 +90,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | EbookFoundation | https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md#javascript
 | Zlibrary | https://ar1lib.org/
 
-### Colors
+### Free Colors
 
 | WEB | URL |
 | :---: | :--- |
@@ -180,10 +180,11 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | dafont |  https://www.dafont.com/es/
 | befonts |  https://befonts.com/
 
-### Herramientas para comprimir imágenes
+### Online Images Сompressor
 
 | WEB | URL |
 | :---: | :--- |
+
 | tinypng | https://tinypng.com/
 | kraken | https://kraken.io/
 | imagerecycle | https://www.imagerecycle.com/
@@ -192,7 +193,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | imagecompressor | https://imagecompressor.com/es/
 | ezgif | https://ezgif.com/
 
-### PNG con fondo transparente
+### PNG With Transparent Background
 
 | WEB | URL |
 | :---: | :--- |
@@ -204,21 +205,12 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | purepng | https://purepng.com/
 | favpng | https://favpng.com/
 
-### QR Code
+### QR Code Generator
 
 | WEB | URL |
 | :---: | :--- |
 | qrcode-monkey |  https://www.qrcode-monkey.com/es
-
-::-moz-selection {
-  background-color: #dd2020;
-	color: #fff;
-}
- 
-::selection {
-	background-color: #dd2020;
-	color: #fff;
-}
+| qrfy | https://qrfy.com/
 
 ---
 
