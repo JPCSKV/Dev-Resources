@@ -210,6 +210,16 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | :---: | :--- |
 | qrcode-monkey |  https://www.qrcode-monkey.com/es
 
+::-moz-selection {
+  background-color: #dd2020;
+	color: #fff;
+}
+ 
+::selection {
+	background-color: #dd2020;
+	color: #fff;
+}
+
 ---
 
 <h4 align="center"><strong>FOLLOW ME</strong></h4>
