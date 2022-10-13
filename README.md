@@ -3,9 +3,9 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ## Useful Resources:
 
-- TABLA DE CONTENIDOS
+- TABLE OF CONTENTS
     - [Free Bootcamps](#Learn-Web-Development)
-    - [Desafíos de programación](#desafíos-de-programación)
+    - [Dev Challenges](#Dev-Challanges)
     - [Descargar Imágenes](#descargar-imágenes)
     - [Descargar Iconos gratis](#descargar-iconos-gratis)
     - [Descargar Libros gratis](#descargar-libros-gratis)
@@ -24,7 +24,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Learn Web Development
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | w3schools | https://www.w3schools.com/
 | MDN | https://developer.mozilla.org/es/
@@ -36,9 +36,9 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | coursera | https://es.coursera.org/
 | scrimba | https://scrimba.com/
 
-### Desafíos de programación 
+### Dev Challanges 
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | frontendmentor | https://www.frontendmentor.io/
 | acefrontend | https://www.acefrontend.com/
@@ -54,7 +54,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Descargar Imágenes
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | unsplash | https://unsplash.com/
 | pexels | https://www.pexels.com/es-es/
@@ -64,9 +64,9 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | freepik | https://www.freepik.es/
 | svgporn | https://svgporn.com/
 
-### Descargar Iconos gratis
+### Free Icons
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | flaticon | https://www.flaticon.es/
 | thenounproject | https://thenounproject.com/
@@ -83,7 +83,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Free Books
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | yolibrospdf | https://yolibrospdf.com/programacion.html
 | pdfdrive | https://es.pdfdrive.com/search?q=Programacion&pagecount=&pubyear=&searchin=es&em=
@@ -92,7 +92,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Colors
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | colorhunt | https://colorhunt.co/palette/253094
 | gradienta | https://gradienta.io/shattered-feelings
@@ -104,7 +104,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Free Templates
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | colorlib | https://colorlib.com/
 | startbootstrap | https://startbootstrap.com/templates
@@ -122,14 +122,14 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | elements.envato | https://elements.envato.com/es-419/web-templates
 
 ### Publics APIS
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | public-apis | https://github.com/public-apis/public-apis
 | apihouse | https://apihouse.vercel.app/
 | apilist | https://apilist.fun/
 
-### Recursos para desarrolladores 
-| Nombre | Enlace |
+### Developer Resources
+| WEB | URL |
 | :---: | :--- |
 | devurls | https://devurls.com/
 | devresourc | https://devresourc.es/
@@ -138,9 +138,9 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | shortcode | https://shortcode.dev/
 | overapi | https://overapi.com/
 
-### Editores de codigo online
+### Online Code Editors
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | codepen | https://codepen.io/
 | playcode | https://playcode.io/
@@ -150,30 +150,31 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | codeshare | https://codeshare.io/
 
 ### Blogs
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | freecodecamp | https://www.freecodecamp.org/news/
 | hackernoon | https://hackernoon.com/
 | dev.to | https://dev.to/
-### Preguntas
 
-| Nombre | Enlace |
+### FAQ
+
+| WEB | URL |
 | :---: | :--- |
 | stackoverflow | https://stackoverflow.com/
 | reddit | https://www.reddit.com/
 | quora | https://es.quora.com/
 
-### Velocidad de carga de sitio web
+### Websites speed test
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | speedpages insights | https://developers.google.com/speed/pagespeed/insights/?hl=es
 | gtmetrix | https://gtmetrix.com/
 | tools.pingdom | https://tools.pingdom.com/
 
-### Descargar fuentes gratis
+### Free Fonts
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | fonts.google |  https://fonts.google.com/
 | dafont |  https://www.dafont.com/es/
@@ -181,7 +182,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### Herramientas para comprimir imágenes
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | tinypng | https://tinypng.com/
 | kraken | https://kraken.io/
@@ -193,7 +194,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### PNG con fondo transparente
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | stickpng | https://www.stickpng.com/es
 | pngtree | https://es.pngtree.com/ 
@@ -205,7 +206,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ### QR Code
 
-| Nombre | Enlace |
+| WEB | URL |
 | :---: | :--- |
 | qrcode-monkey |  https://www.qrcode-monkey.com/es
 
