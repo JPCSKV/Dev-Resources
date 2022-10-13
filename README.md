@@ -184,7 +184,6 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 | WEB | URL |
 | :---: | :--- |
-
 | tinypng | https://tinypng.com/
 | kraken | https://kraken.io/
 | imagerecycle | https://www.imagerecycle.com/
