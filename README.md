@@ -22,7 +22,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
     - [PNG con fondo transparente](#png-con-fondo-transparente)
     - [Crear código QR](#crear-código-qr)
 
-### Aprender Desarrollo Web 
+### Learn Web Development
 
 | Nombre | Enlace |
 | :---: | :--- |
