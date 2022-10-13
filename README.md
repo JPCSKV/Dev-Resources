@@ -4,18 +4,17 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 ## Useful Resources:
 
 - TABLE OF CONTENTS
-    - [Free Bootcamps](#Learn-Web-Development)
+    - [Bootcamps](#Learn-Web-Development)
     - [Dev Challenges](#Dev-Challanges)
     - [Free Images](#Free-images)
     - [Free Icons](#Free-Icons)
     - [Free Books](#Free-Books)
     - [Colors](#colors)
-    - [free Templates](#Free-templates)
+    - [Templates](#Free-templates)
     - [Publics APIS](#Publics-APIS)
     - [Developer Resources](#Developer-Resources)
     - [Online Code Editors](#Online-Code-Editors)
     - [Blogs](#blogs)
-    - [FAQ](#FAQ)
     - [Websites speed test](#Websites-speed-test)
     - [Free Fonts](#Free-Fonts)
     - [Online Images Compresor](#Online-Images-Сompressor)
@@ -83,7 +82,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | feathericons |  https://feathericons.com/
 | tablericons |  https://tablericons.com/
 
-### Free Books
+### Books
 
 | WEB | URL |
 | :---: | :--- |
@@ -92,7 +91,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | EbookFoundation | https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md#javascript
 | Zlibrary | https://ar1lib.org/
 
-### Free Colors
+### Colors
 
 | WEB | URL |
 | :---: | :--- |
@@ -104,7 +103,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | gradientbuttons | https://gradientbuttons.colorion.co/
 | coolors | https://coolors.co/
 
-### Free Templates
+### Templates
 
 | WEB | URL |
 | :---: | :--- |
@@ -121,6 +120,8 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | inovatik | https://inovatik.com/
 | creative-tim | https://www.creative-tim.com/templates
 | html5boilerplate | https://html5boilerplate.com/
+| Graphic Burger | https://graphicburger.com/
+| Free Pick | https://www.freepik.es/
 | elements.envato | https://elements.envato.com/es-419/web-templates
 
 ### Publics APIS
@@ -157,14 +158,6 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 | freecodecamp | https://www.freecodecamp.org/news/
 | hackernoon | https://hackernoon.com/
 | dev.to | https://dev.to/
-
-### FAQ
-
-| WEB | URL |
-| :---: | :--- |
-| stackoverflow | https://stackoverflow.com/
-| reddit | https://www.reddit.com/
-| quora | https://es.quora.com/
 
 ### Websites speed test
 
@@ -215,7 +208,7 @@ Bootcamps, E-books, Challenges, and others tools to improve your skills.
 
 ---
 
-<h4 align="center"><strong>FOLLOW ME</strong></h4>
+<h4 align="center"><strong>Follow me</strong></h4>
 <p align="center">
  <a href="https://github.com/JPCSKV" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/juan-pablo-contreras-serkovic/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://dev.to/jpcskv" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </p>
