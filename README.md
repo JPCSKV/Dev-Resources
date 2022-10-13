@@ -1,5 +1,5 @@
 # Dev-Resources ⚡
-Bootcamps, E-books, Challenges, and others tools to improve your skills.
+
 
 ## Useful Resources:
 
